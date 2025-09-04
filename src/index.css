@@ -1,0 +1,9 @@
+@import "tailwindcss";
+.all{
+    top: 0px;
+    left: 0px;
+    width: 375px;
+    height: 812px;
+    background: #F7F8F9 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
